@@ -9,7 +9,7 @@ namespace SimpleHelloAppForGitHub
 
         public void GetData()
         {
-            Console.WriteLine("New Class data Added ......");
+            Console.WriteLine("New Class data Added .....");
         }
     }
 }
