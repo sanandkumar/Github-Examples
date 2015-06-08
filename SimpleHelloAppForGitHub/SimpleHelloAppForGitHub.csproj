@@ -37,6 +37,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NewClass3.cs" />
     <Compile Include="NewClassA.cs" />
     <Compile Include="NewClassB.cs" />
     <Compile Include="Program.cs" />
