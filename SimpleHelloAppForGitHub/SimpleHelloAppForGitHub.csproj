@@ -38,6 +38,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="NewClass3.cs" />
+    <Compile Include="NewClass4.cs" />
     <Compile Include="NewClassA.cs" />
     <Compile Include="NewClassB.cs" />
     <Compile Include="Program.cs" />
