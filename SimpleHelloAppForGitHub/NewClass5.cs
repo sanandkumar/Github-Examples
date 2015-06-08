@@ -6,5 +6,9 @@ namespace SimpleHelloAppForGitHub
 {
     class NewClass5
     {
+        public void GetClass5Data()
+        {
+            Console.WriteLine("New Class data Added .....");
+        }
     }
 }
